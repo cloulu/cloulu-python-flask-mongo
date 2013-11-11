@@ -12,4 +12,5 @@ Routes
 =======
 
 - / : index welcome page
+- /mongo : test save time-value
 - /env : mongodb service information
